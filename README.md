@@ -1,11 +1,13 @@
 # The Nuclei Compendium
-![Templates](https://img.shields.io/badge/Templates-3852-green)
+![Templates](https://img.shields.io/badge/Templates-3852-green?style=for-the-badge)
+![PR](https://img.shields.io/badge/Pull%20Requests-Welcome-blue?style=for-the-badge)
 
-# What
+##  What is this?
 A collection of 3852 nuclei templates from all across github. These are largely sourced from [emadshanab's Nuclei Template Collection list](https://github.com/emadshanab/Nuclei-Templates-Collection). Some of the templates are broken and will need updates to work properly.
 
 # Usage
 Add in the template directory with `-t` or copy the `yaml` files into your `~/nuclei-templates/` directory.
+
 ![](example.png)
 
 
